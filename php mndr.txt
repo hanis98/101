@@ -1,0 +1,26 @@
+Open Terminal
+	1. dir
+	2. cd 101(File Name)\
+	3. php artisan
+	4. php artisan make:controller PagesController
+	5. php artisan make:auth
+	6. php artisan migrate - utk create dalam database
+	7. php artisan
+	8. php artisan make:controller UserController -r
+	9. php artisan route:list
+	10.php artisan route:list --name=user
+	11.php artisan route:list --sort=user
+	12.php artisan make:migration add ic_jabatan_jawatan_colums--table=users (tambah columns)
+	13.php artisan strorage:link
+	14.php artisan event:event generate
+	15
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+migration
+factory
+model-fillable
+	guarded
+controller - validation
+	-create/update
